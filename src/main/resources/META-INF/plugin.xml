@@ -9,9 +9,10 @@
 
     <description><![CDATA[
         Allows configuring and using Resin application server directly from IntelliJ IDEA,
-        for deploying and running/debugging web applications. By JooYoung
+        for deploying and running/debugging web applications.
+        By JooYoung
     ]]></description>
-    <vendor email="pluto90k@malgnsoft.com" url="https://www.wecandeo.com">Wecandeo</vendor>
+    <vendor email="pluto90k@gmail.com" url="https://videocube.tistory.com">VideoCube</vendor>
     <category>Deployment</category>
     <extensions defaultExtensionNs="com.intellij">
         <configurationType implementation="org.intellij.j2ee.web.resin.ResinConfigurationType"/>
