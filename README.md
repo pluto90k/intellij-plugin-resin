@@ -7,7 +7,7 @@ VideoCube Blog
 http://videocube.tistory.com
 * * *
 
-[Resin Plugin Source](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/resin, "Source")
+[Resin Plugin Source](https://github.com/JetBrains/intellij-obsolete-plugins, "Source")
 
 ```
  I ended up using Intellij for my work. 
