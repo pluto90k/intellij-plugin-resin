@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.intellij"
-version = "1.1-SNAPSHOT"
+version = "1.2-SNAPSHOT"
 
 repositories {
     mavenCentral()
@@ -35,8 +35,8 @@ tasks {
     }
 
     patchPluginXml {
-        sinceBuild.set("241")
-        untilBuild.set("243.*")
+        sinceBuild.set("251")
+        untilBuild.set("259.*")
     }
 
     signPlugin {
